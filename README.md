@@ -1,5 +1,9 @@
 ASL Recognition: A comparison between SIFT and Gabor Filter for Feature Extraction
 
+Contributors: Isura Thirkawala
+              Sagar Deshpande
+              Shreya Reddy
+
 Objective
 
 The main objective of our project was to achieve a better recognition system for ASL alphabets
