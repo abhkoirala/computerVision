@@ -14,3 +14,5 @@ the combination of best classifier and the best feature extraction techniques fo
 classification of ASL alphabets. Thus, we tried to implement two of the papers with SVM,
 MLP and CNN in order to find the best possible combination to overcome the problem of ASL
 alphabet classification problem.
+
+Read the FinalReport.pdf for further info
